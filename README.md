@@ -1,6 +1,6 @@
 # Virtual DJ Skin Web-Based Simulator
 
-<img src="https://github.com/LPX1138/VDJ_Skin_WebSimulator/blob/main/images/VISUALdj2.png" alt="Repository Logo" width="200" height="200" align="center">
+<img src="https://github.com/LPX1138/VDJ_Skin_WebSimulator/blob/main/images/VISUALdj.png" alt="Repository Logo" width="200" height="200" text-align="center">
 
 ## Description
 This project provides a web-based simulator for designing Virtual DJ skins. It allows for real-time preview of changes to the skin design using an XML file. The simulator leverages HTML, CSS, and JavaScript to simulate the skin layout and styles defined in the XML file.
@@ -20,7 +20,6 @@ VDJ_Skin_WebSimulator/
 │   ├── style.css
 ├── images/
 │   ├──VISUALdj.png
-│   ├──VISUALdj2.png
 ├── index.html
 └── README.md
 ```
