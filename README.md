@@ -1,7 +1,7 @@
 # Virtual DJ Skin Web-Based Simulator
 
 <p align="center">
-    <img src="https://github.com/LPX1138/VDJ_Skin_WebSimulator/blob/main/images/VISUALdj.png" alt="Visual DJ" width="200" height="250">
+    <img src="https://github.com/LPX1138/VDJ_Skin_WebSimulator/blob/main/images/VISUALdj.png" alt="Visual DJ" width="250" height="250">
 </p>
 
 ## Description
