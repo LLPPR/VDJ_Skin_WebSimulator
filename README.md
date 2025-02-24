@@ -3,6 +3,9 @@
 ## Description
 This project provides a web-based simulator for designing Virtual DJ skins. It allows for real-time preview of changes to the skin design using an XML file. The simulator leverages HTML, CSS, and JavaScript to simulate the skin layout and styles defined in the XML file.
 
+## Rationale
+The purpose of this project is to provide an intuitive and visual way for artists to design and customize Virtual DJ skins without needing in-depth coding knowledge. By using web technologies, this tool offers a flexible and accessible platform for skin design.
+
 ## Directory Structure
 ```
 VDJ_Skin_WebSimulator/
@@ -35,9 +38,6 @@ VDJ_Skin_WebSimulator/
 - **Update `scripts/main.js`:**
   - Handle more complex parsing and styling logic based on the XML file by modifying this JavaScript file.
 
-## Rationale
-The purpose of this project is to provide an intuitive and visual way for artists to design and customize Virtual DJ skins without needing in-depth coding knowledge. By using web technologies, this tool offers a flexible and accessible platform for skin design.
-
 ## Change Log
 - **2025-02-24:** Initial setup and organization of the repository. Created `skin.xml`, `skin.xsl`, and updated `index.html` to integrate XSLT for real-time previews.
 - **2025-02-24:** Structured the repository into `skins`, `scripts`, and `styles` directories for better organization and maintainability.
@@ -50,4 +50,9 @@ For any questions or further assistance, please feel free to open an issue on th
 
 ---
 
-This README is aimed at providing clear and concise instructions for artists who may not be familiar with coding. By following the steps outlined, users can easily customize and preview their Virtual DJ skins.
+## Disclaimer
+This project is not affiliated with, sponsored by, or endorsed by Virtual DJ. It is a contribution to the open source community, created by a creative professional and functional analyst to enhance the customization and usability of Virtual DJ skins.
+
+For any questions or further assistance, please feel free to open an issue on the repository.
+
+---
