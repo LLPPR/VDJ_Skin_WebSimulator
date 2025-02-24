@@ -6,26 +6,48 @@ This project provides a web-based simulator for designing Virtual DJ skins. It a
 ## Directory Structure
 ```
 VDJ_Skin_WebSimulator/
-├── css/
-│   ├── style.css
-├── images/
-│   ├── background.png
-│   ├── button.png
-├── js/
-│   ├── main.js
 ├── skins/
-│   ├── cpp_skin.xml
+│   ├── skin.xml
+│   ├── skin.xsl
+├── scripts/
+│   ├── main.js
+├── styles/
+│   ├── style.css
 ├── index.html
 └── README.md
 ```
 
 ## Usage
-1. Open `index.html` in a web browser to preview the skin design.
-2. Edit the XML file in the `skins` directory to make changes to the skin.
-3. Refresh the browser to see the changes in real-time.
+1. **Open `index.html` in a Web Browser:** 
+   - This file serves as the main entry point for the simulator. Opening it in a web browser will allow you to see the current state of the skin design.
+2. **Edit the XML File in the `skins` Directory:**
+   - Modify `skin.xml` to change the elements and their properties. This file defines the structure and components of the skin.
+3. **Refresh the Browser to See Changes:**
+   - After making changes to `skin.xml`, refresh the browser to see the updates in real-time.
 
 ## Customization
-- Modify `index.html` to change the structure and elements of the skin.
-- Edit `css/style.css` to update the base styles and appearance of the simulator.
-- Add or replace images in the `images` directory as needed.
-- Update `js/main.js` to handle more complex parsing and styling logic based on the XML file.
+- **Modify `index.html`:**
+  - Change the structure and elements of the skin directly in this file if needed.
+- **Edit `styles/style.css`:**
+  - Update the base styles and appearance of the simulator by editing this CSS file.
+- **Add or Replace Images:**
+  - Add or replace images in the `skins` directory as needed for your skin design.
+- **Update `scripts/main.js`:**
+  - Handle more complex parsing and styling logic based on the XML file by modifying this JavaScript file.
+
+## Rationale
+The purpose of this project is to provide an intuitive and visual way for artists to design and customize Virtual DJ skins without needing in-depth coding knowledge. By using web technologies, this tool offers a flexible and accessible platform for skin design.
+
+## Change Log
+- **2025-02-24:** Initial setup and organization of the repository. Created `skin.xml`, `skin.xsl`, and updated `index.html` to integrate XSLT for real-time previews.
+- **2025-02-24:** Structured the repository into `skins`, `scripts`, and `styles` directories for better organization and maintainability.
+- **2025-02-24:** Updated README documentation to reflect the new structure and usage instructions.
+
+## Additional Documentation
+- **Commit History:** View detailed commit history [here](https://github.com/LPX1138/VDJ_Skin_WebSimulator/commits).
+
+For any questions or further assistance, please feel free to open an issue on the repository.
+
+---
+
+This README is aimed at providing clear and concise instructions for artists who may not be familiar with coding. By following the steps outlined, users can easily customize and preview their Virtual DJ skins.
