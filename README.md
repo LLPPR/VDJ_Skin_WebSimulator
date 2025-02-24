@@ -51,8 +51,6 @@ For any questions or further assistance, please feel free to open an issue on th
 ---
 
 ## Disclaimer
-This project is not affiliated with, sponsored by, or endorsed by Virtual DJ. It is a contribution to the open source community, created by a creative professional and functional analyst to enhance the customization and usability of Virtual DJ skins.
-
-For any questions or further assistance, please feel free to open an issue on the repository.
+This project is not affiliated with, sponsored by, or endorsed by Virtual DJ. It is a contribution to the open source community, created by an old school graphic designer, new school functional analyst and lifelong DJ. This project aims to capture the ease of use of the old WYSIWYG web design software to motivatte more users to contribute to the customization and usability of Virtual DJ.
 
 ---
