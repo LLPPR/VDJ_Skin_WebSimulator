@@ -5,10 +5,10 @@
 </p>
 
 ## Description
-This project provides a web-based simulator for designing Virtual DJ skins. It allows for browser-based 'What You See Is What You Get' previewing while editing the custom skin's XML file. The simulator leverages HTML, CSS, and JavaScript to simulate the skin layout and styles defined in the XML file.
+This project provides a browser-based visual simulator for designing Virtual DJ skins. In the spirit of old 'What You See Is What You Get' web editors, users are able to preview real time edits to the skin's XML file. The simulator leverages HTML, XSL and JavaScript to simulate the skin layout and styles defined in the XML file.
 
 ## Rationale
-The purpose of this project is to provide an intuitive and visual way for users to design and customize Virtual DJ interfaces without having to switch out of 'interface' mode and into 'design' or 'code' mode. By using web technologies, this tool offers an visual and accessible method for touch interface design.
+The purpose of this project is to provide an intuitive and visual way for users to design and customize Virtual DJ interfaces using an operational POV. Using a simple method to preview design changes, this tool aims to enhance the efficiency of customizing interfaces.
 
 ## Directory Structure
 ```
