@@ -1,14 +1,14 @@
-# Virtual DJ Skin Web-Based Simulator
+# VDJ SKIN WYSIWYG PREVIEW EDITOR
 
 <p align="center">
-    <img src="https://github.com/LPX1138/VDJ_Skin_WebSimulator/blob/main/images/VISUALdj.png" alt="Visual DJ" width="250" height="250">
+    <img src="https://github.com/LLPPR/VDJ_Skin_WebSimulator/blob/main/images/VISUALdj.png" alt="Visual DJ" width="250" height="250">
 </p>
 
 ## Description
-This project provides a web-based simulator for designing Virtual DJ skins. It allows for real-time preview of changes to the skin design using an XML file. The simulator leverages HTML, CSS, and JavaScript to simulate the skin layout and styles defined in the XML file.
+This project provides a web-based simulator for designing Virtual DJ skins. It allows for browser-based 'What You See Is What You Get' previewing while editing the custom skin's XML file. The simulator leverages HTML, CSS, and JavaScript to simulate the skin layout and styles defined in the XML file.
 
 ## Rationale
-The purpose of this project is to provide an intuitive and visual way for artists to design and customize Virtual DJ skins without needing in-depth coding knowledge. By using web technologies, this tool offers a flexible and accessible platform for skin design.
+The purpose of this project is to provide an intuitive and visual way for users to design and customize Virtual DJ interfaces without having to switch out of 'interface' mode and into 'design' or 'code' mode. By using web technologies, this tool offers an visual and accessible method for touch interface design.
 
 ## Directory Structure
 ```
@@ -50,7 +50,7 @@ VDJ_Skin_WebSimulator/
 - **2025-02-24:** Updated README documentation to reflect the new structure and usage instructions.
 
 ## Additional Documentation
-- **Commit History:** View detailed commit history [here](https://github.com/LPX1138/VDJ_Skin_WebSimulator/commits).
+- **Commit History:** View detailed commit history [here](https://github.com/LLPPR/VDJ_Skin_WebSimulator/commits).
 
 For any questions or further assistance, please feel free to open an issue on the repository.
 
